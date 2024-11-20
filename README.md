@@ -40,6 +40,11 @@ Este projeto tem potencial para ser implementado em soluções reais de monitora
 ### Precisão Média (Acurácia de Previsão): 89.17%
 - O modelo é capaz de prever com uma precisão média de 89.17% os valores de geração de energia com base nas condições climáticas fornecidas.
 
+## Conclusão
+O modelo de Machine Learning desenvolvido neste projeto demonstra como a aplicação de algoritmos preditivos pode contribuir significativamente para a gestão de energia sustentável em comunidades remotas. Utilizando um Random Forest Regressor, foi possível criar previsões precisas sobre a geração de energia com base em dados climáticos históricos obtidos pela API NASA POWER.
+
+Os resultados apresentados, com uma precisão média de 89,17%, destacam o potencial do modelo em prever a geração diária de energia com um erro relativamente baixo (MAPE: 10,83%). Isso reforça a viabilidade de integrar este modelo em sistemas de monitoramento energético, permitindo otimizações em tempo real e decisões estratégicas mais bem informadas.
+
 ## Alunos
 <b>Luana Sousa Matos:</b> RM552621
 
