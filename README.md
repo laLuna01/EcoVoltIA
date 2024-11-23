@@ -3,6 +3,9 @@ O projeto visa desenvolver uma solução de Machine Learning capaz de prever a g
 
 Este projeto tem potencial para ser implementado em soluções reais de monitoramento e gestão de energia, contribuindo para um futuro mais sustentável e seguro para as comunidades que dependem de energia renovável.
 
+## Vídeo
+https://drive.google.com/drive/folders/1I6tH3ayeJ4vbmW1Mk-IJd8P-pzOaI5kC?usp=drive_link
+
 ## Dados Utilizados
 <b>Fonte dos Dados:</b> Os dados meteorológicos foram obtidos da API NASA POWER, que fornece informações climáticas históricas.
 
